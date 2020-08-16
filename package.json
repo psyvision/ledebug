@@ -1,0 +1,28 @@
+{
+  "name": "ledebug",
+  "version": "1.0.0",
+  "description": "LED strip debug and test utility",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psyvision/ledebug.git"
+  },
+  "keywords": [
+    "led",
+    "spi",
+    "raspberrypi"
+  ],
+  "author": "Richard Caunt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/psyvision/ledebug/issues"
+  },
+  "homepage": "https://github.com/psyvision/ledebug#readme",
+  "dependencies": {
+    "dotstar": "^1.0.0",
+    "pi-spi": "^1.2.1"
+  }
+}
